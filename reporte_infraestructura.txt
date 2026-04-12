@@ -1,0 +1,10 @@
+
+    ==================================
+    REPORTE DE INFRAESTRUCTURA DEVOPS
+    Fecha: 2026-04-12 23:39:33
+    ==================================
+    Instancias EC2 activas: 1
+    Buckets S3 encont
+rados: 2
+    ==================================
+    

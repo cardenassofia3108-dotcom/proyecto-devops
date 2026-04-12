@@ -1,0 +1,8 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Infraestructura básica DevOps
+
+Resources:
+  MiBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: mi-bucket-devops-brenda
